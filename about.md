@@ -18,3 +18,5 @@ Thanks to the following:
 * [Jekyll](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)
 * [Type Scale](http://type-scale.com/)
+
+Burada başka linkler de olacaktır zaman içinde...
