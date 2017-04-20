@@ -15,8 +15,10 @@ It's pretty minimal, but leverages large type and drastic contrast to make a sta
 <blockquote>
   <p>
     Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+    yani...
+    Mükemmeliyet, ekleyecek birşey kalmadığında değil, çıkartılacak bir şey kalmadığında elde edilir.
   </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry (Küçük Prens'in yazarı)</cite></footer>
 </blockquote>
 
 ## Where is it?
